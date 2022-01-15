@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = pedrocardoso@outlook.com
+	name = pedro cardoso
